@@ -1,4 +1,4 @@
-# School_project
+# Class application project
 
 Simple class application program Project done at the Oriented Objected Programming class using C++. 
 
